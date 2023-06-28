@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Ivan</h1>
-<h3 align="center">I have a deep passion for Python and data</h3>
 
 - 👨‍💻 All of my projects are available at [https://www.ivanovprojects.com/about-me](https://www.ivanovprojects.com/about-me)
 
